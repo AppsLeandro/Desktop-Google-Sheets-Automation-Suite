@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Revolt Self-Bot for Ticket Claiming Automation</h1>
+<h1 align="center">Desktop Google Sheets Automation Suite</h1>
 
 <div align="center">
   <img
